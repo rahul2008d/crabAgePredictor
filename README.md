@@ -1,4 +1,10 @@
-Dataset Description
+https://www.kaggle.com/competitions/playground-series-s3e16/overview/evaluation
+
+**Regression with a Crab Age Dataset Playground Series - Season 3, Episode 16**
+-------------------------------------------------------------------------------
+
+**Dataset Description:**
+
 The dataset for this competition (both train and test) was generated from a deep learning model trained on the Crab Age Prediction dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
 
 Note: You can use this notebook to generate additional synthetic data for this competition if you would like.
@@ -20,8 +26,5 @@ where each x_i represents the predicted target, y_i represents the ground truth,
 Submission File
 For each id in the test set, you must predict the target Age. The file should contain a header and have the following format:
 
-id,yield
-74051,10.2
-74051,3.6
-74051,11.9
-etc.
+![image](https://github.com/rahul2008d/crabAgePredictor/assets/61235079/2aad0908-fa87-46ac-b0c7-c0105dda03bf)
+
